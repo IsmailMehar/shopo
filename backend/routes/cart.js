@@ -25,7 +25,7 @@ router.get("/", async (req, res) => {
   }
 });
 
-// Add item to cart
+// Add item(s) to cart
 router.post("/", async (req, res) => {
   try {
     const { product_id } = req.body;
@@ -105,7 +105,7 @@ router.put("/:id", async (req, res) => {
   }
 });
 
-// Remove cart item
+// Remove cart item(s)
 router.delete("/:id", async (req, res) => {
   try {
     const { id } = req.params;
