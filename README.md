@@ -133,6 +133,11 @@ This command will:
 * create all required tables (`products`, `cart_items`)
 * insert sample product data
 
+After this, you must make sure that MySQL is using the correct database. You can ensure this by running:
+```bash
+USE shopo;
+```
+
 
 ---
 
