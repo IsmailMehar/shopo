@@ -170,7 +170,7 @@ http://localhost:3000
 
 ## Configuration
 
-Update your database credentials in:
+IMPORTANT - Make sure to update your database credentials in:
 
 ```
 backend/config/db.js
@@ -181,6 +181,8 @@ Example:
 ```js
 password: "YOUR_MYSQL_PASSWORD"
 ```
+
+Without this step, you will get an error indicating that the backend failed to fetch products.
 
 ---
 
@@ -210,14 +212,20 @@ Shopo successfully demonstrates the implementation of a full-stack single-page a
 
 ## References
 
-Mouse image: https://www.computeralliance.com.au/InventoryImages/45730.jpg
-Keyboard image: https://jmau.imgix.net/media/catalog/product/9/2/920-013234-logitech-g-pro-x-tkl-rapid-keyboard-1_5kofnuei5cvvlehx.jpg
-Notebook image: https://www.promotionproducts.com.au/media/products/images/eco-spiral-bound-a5-notebooks Promotional%20Eco%20Spiral%20Bound%20A5%20Notebooks%20Main.jpg
-Bottle image: https://au.yeti.com/cdn/shop/files/70000007210_21071508651_Site_Studio_Drinkware_Rambler_CM_Chug_Bottle_36oz_Ridgeline_Back_168_B_2400x2400_e404181c-228a-4be2-b1fe-b5fe4790619a.png?v=1774477078&width=846
-Lamp image: https://onlinelighting.com.au/images/detailed/136/Croset_Table_Lamp.jpg
-Backpack image: https://www.antler.com.au/cdn/shop/files/Antler-01-Discovery-Backpack-Black-Angle.jpg?v=1712856855
+Computer Alliance. (n.d.). Mouse image [Image]. https://www.computeralliance.com.au/InventoryImages/45730.jpg
+
+Logitech. (n.d.). Keyboard image [Image]. https://jmau.imgix.net/media/catalog/product/9/2/920-013234-logitech-g-pro-x-tkl-rapid-keyboard-1_5kofnuei5cvvlehx.jpg
+
+Promotion Products. (n.d.). Eco spiral bound A5 notebook [Image]. https://www.promotionproducts.com.au/media/products/images/eco-spiral-bound-a5-notebooks%20Promotional%20Eco%20Spiral%20Bound%20A5%20Notebooks%20Main.jpg
+
+YETI. (n.d.). Rambler bottle [Image]. https://au.yeti.com/cdn/shop/files/70000007210_21071508651_Site_Studio_Drinkware_Rambler_CM_Chug_Bottle_36oz_Ridgeline_Back_168_B_2400x2400_e404181c-228a-4be2-b1fe-b5fe4790619a.png
+
+Online Lighting. (n.d.). Croset table lamp [Image]. https://onlinelighting.com.au/images/detailed/136/Croset_Table_Lamp.jpg
+
+Antler. (n.d.). Discovery backpack [Image]. https://www.antler.com.au/cdn/shop/files/Antler-01-Discovery-Backpack-Black-Angle.jpg
 
 ## Appendix
+Screenshots of app
 <img width="3723" height="1968" alt="image" src="https://github.com/user-attachments/assets/0dd145a0-eb4d-4aff-b8d4-736eb3080ecc" />
 <img width="3693" height="1932" alt="image" src="https://github.com/user-attachments/assets/f6f1fc9d-c88d-40a9-9015-10f5e76bd68f" />
 
