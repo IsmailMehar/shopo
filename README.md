@@ -218,7 +218,8 @@ Lamp image: https://onlinelighting.com.au/images/detailed/136/Croset_Table_Lamp.
 Backpack image: https://www.antler.com.au/cdn/shop/files/Antler-01-Discovery-Backpack-Black-Angle.jpg?v=1712856855
 
 ## Appendix
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="3723" height="1968" alt="image" src="https://github.com/user-attachments/assets/0dd145a0-eb4d-4aff-b8d4-736eb3080ecc" />
+<img width="3693" height="1932" alt="image" src="https://github.com/user-attachments/assets/f6f1fc9d-c88d-40a9-9015-10f5e76bd68f" />
+
+
 ---
