@@ -208,4 +208,17 @@ password: "YOUR_MYSQL_PASSWORD"
 
 Shopo successfully demonstrates the implementation of a full-stack single-page application using modern web technologies. It showcases how frontend interactivity, backend APIs, and database operations can be integrated to create a seamless user experience.
 
+## References
+
+Mouse image: https://www.computeralliance.com.au/InventoryImages/45730.jpg
+Keyboard image: https://jmau.imgix.net/media/catalog/product/9/2/920-013234-logitech-g-pro-x-tkl-rapid-keyboard-1_5kofnuei5cvvlehx.jpg
+Notebook image: https://www.promotionproducts.com.au/media/products/images/eco-spiral-bound-a5-notebooks Promotional%20Eco%20Spiral%20Bound%20A5%20Notebooks%20Main.jpg
+Bottle image: https://au.yeti.com/cdn/shop/files/70000007210_21071508651_Site_Studio_Drinkware_Rambler_CM_Chug_Bottle_36oz_Ridgeline_Back_168_B_2400x2400_e404181c-228a-4be2-b1fe-b5fe4790619a.png?v=1774477078&width=846
+Lamp image: https://onlinelighting.com.au/images/detailed/136/Croset_Table_Lamp.jpg
+Backpack image: https://www.antler.com.au/cdn/shop/files/Antler-01-Discovery-Backpack-Black-Angle.jpg?v=1712856855
+
+## Appendix
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ---
